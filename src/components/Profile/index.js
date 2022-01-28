@@ -34,7 +34,7 @@ const Profile = () => {
             </PrItem>
             <PrItem>
               <Span>Address</Span>
-              Rue 15 DB 01 AL WAHDA 01 MEKNES
+              Rue 15 DB 01 NO 21 AL WAHDA 01 MEKNES
             </PrItem>
             <PrItem>
               <Span>Phone</Span>
