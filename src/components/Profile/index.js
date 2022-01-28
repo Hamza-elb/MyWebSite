@@ -46,7 +46,7 @@ const Profile = () => {
             </PrItem>
             <PrItem>
               <Span>Website</Span>
-              <Span web>www.google.com</Span>
+              <Span web>https://elbourissihamza.netlify.app</Span>
             </PrItem>
           </PrListe>
         </Profil>

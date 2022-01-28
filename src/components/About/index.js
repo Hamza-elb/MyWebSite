@@ -18,10 +18,10 @@ const About = () => {
           </InfoTitle>
           <InfoDir>Full Stack Web Developer</InfoDir>
           <InfoDesc>
-            Agé de 22 ans, actuellement en 2 -ème année cycle d'ingénieur en
-            génie informatique à l'école nationale des sciences appliquées
-            d'OUJDA. Je souhaite trouver un stage d'application convenable à mes
-            compétences et ma carrière.
+            Aged 22, currently in his 2nd year engineering cycle in computer
+            engineering at the national school of applied sciences from OUJDA. I
+            want to find an application internship suitable for my skills and my
+            career.
           </InfoDesc>
         </AboutInfo>
       </div>
