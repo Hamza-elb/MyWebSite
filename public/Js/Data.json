@@ -1,0 +1,80 @@
+{
+    "works" : [
+        {
+            "id" : 1,
+            "icon_name": "icon fas fa-code fa-2x",
+            "title": "Web Dev",
+            "body": "- Réalisation d'une application web de gestion des employées avec les technologies: Laravel, ReactJs, HTML,CSS."
+        },
+        {
+            "id" : 2,
+            "icon_name": "icon fas fa-mobile-alt fa-2x",
+            "title": "Mobile Dev",
+            "body": "- Réalisation d’une application mobile dédiée aux diabétiques avec les technologies: Android Studio, Adobe XD, Firebase."
+        },
+        {
+            "id" : 3,
+            "icon_name": "icon fas fa-desktop fa-2x",
+            "title": "Desktop Dev",
+            "body": "- Réalisation d’une application Desktop Gestion de commande avec les technologies: Java Fx, SceneBuilder, MySQL. "
+        }
+    ],
+
+    "portfolio" : [
+        {
+            "id":1,
+            "image": "/img/portfolio-img1.jpg"
+        },
+        {
+            "id":2,
+            "image": "/img/portfolio-img2.jpg"
+        },
+        {
+            "id":3,
+            "image": "/img/portfolio-img3.jpg"
+        },
+        {
+            "id":4,
+            "image": "/img/portfolio-img4.jpg"
+        },
+        {
+            "id":5,
+            "image": "/img/portfolio-img5.jpg"
+        },
+        {
+            "id":6,
+            "image": "/img/portfolio-img6.jpg"
+        },
+        {
+            "id":7,
+            "image": "/img/portfolio-img4.jpg"
+        },
+        {
+            "id":8,
+            "image": "/img/portfolio-img8.jpg"
+        }
+    ] ,
+    "social" : [
+        {
+            "id": 1,
+            "icon" : " fab fa-facebook-square",
+            "lien" : "https://www.facebook.com/Hamza.ELBOURISSI",
+            "title" : "Follow Me on",
+            "body" : "Social Facebook"
+        },
+        {
+            "id": 2,
+            "icon" : "fab fa-github",
+            "lien" : "https://github.com/Hamza-elb",
+            "title" : "Github ",
+            "body" : "Social github"
+        },
+        {
+            "id": 3,
+            "icon" : "fab fa-instagram",
+            "lien" : "https://www.instagram.com/elbourissihamza/",
+            "title" : "Follow Me on",
+            "body" : "Social instagram"
+        }
+    ] 
+}
